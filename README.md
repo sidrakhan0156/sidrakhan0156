@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a Software Engineering student at UET Lahore. I am passionate about software development, desktop applications, and video games. I enjoy learning new technologies and applying my programming skills to build practical projects.
+I am a Software Engineering student at UET Lahore. I am passionate about software development, desktop applications, and video games. I enjoy learning new technologies and applying my skills to build practical projects.
 
 ## Skills & Technologies
 
